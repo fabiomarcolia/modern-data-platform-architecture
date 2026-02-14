@@ -257,6 +257,8 @@ Se você quer entender melhor sobre:
 
 Encontrará nesse repositório, seja para estudar ou aplicar.
 
-## Autor - Fabio Marçolia | Carreira em Dados & IA
+---
+
+# Autor - Fabio Marçolia | Carreira em Dados & IA
 
 Dicas e sugestões: Vamos nos Conectar e falar no [Linkedin](http://linkedin.com/in/fabiomarcolia) 🤝
