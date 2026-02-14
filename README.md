@@ -1,4 +1,4 @@
-# 🚀 Modern Data Platform & Engenharia de Dados
+# Modern Data Platform & Engenharia de Dados
 ### Arquitetura • Lakehouse • Governança • ML • GenAI • FinOps • DataOps
 
 <p align="center">
@@ -58,10 +58,9 @@ Princípios escalam.
 
 ---
 
-# 🧭 Estrutura do Repositório
+# 📁 Estrutura do Repositório
 
-## 🧭 00 — Visão de Plataforma  
-📁 `00-visao-plataforma/`
+## [0-Visão de Plataforma](0-visao-plataforma)
 
 - Definição de Modern Data Platform
 - Mentalidade projeto vs mentalidade plataforma
@@ -69,8 +68,7 @@ Princípios escalam.
 
 ---
 
-## 🏗️ 01 — Arquitetura  
-📁 `01-arquitetura/`
+## [1-Arquitetura](1-arquitetura)
 
 - Arquitetura de referência
 - Blueprint AWS Lakehouse
@@ -80,8 +78,7 @@ Princípios escalam.
 
 ---
 
-## 🔌 02 — Ingestão  
-📁 `02-ingestao/`
+## [2-Ingestão](2-ingestao)
 
 - Batch vs Streaming
 - CDC
@@ -90,8 +87,7 @@ Princípios escalam.
 
 ---
 
-## 🧊 03 — Storage & Lakehouse  
-📁 `03-storage-lakehouse/`
+## [3-Storage e Lakehouse](3-storage-lakehouse)
 
 - Iceberg em profundidade
 - Design de tabelas
@@ -102,8 +98,7 @@ Princípios escalam.
 
 ---
 
-## ⚙️ 04 — Processamento  
-📁 `04-processing/`
+## [4-Processamento](4-processamento)
 
 - Quando usar (e não usar) Spark
 - DuckDB & Polars
@@ -112,8 +107,7 @@ Princípios escalam.
 
 ---
 
-## 🕸️ 05 — Orquestração  
-📁 `05-orquestracao/`
+## [5-Orquestração](5-orquestracao)
 
 - Airflow em produção
 - Design de DAG
@@ -123,8 +117,7 @@ Princípios escalam.
 
 ---
 
-## 🧪 06 — Qualidade de Dados  
-📁 `06-qualidade-de-dados/`
+## [6-Qualidade de Dados](6-qualidade-de-dados)
 
 - Contratos de dados
 - Expectations
@@ -133,8 +126,7 @@ Princípios escalam.
 
 ---
 
-## 🔐 07 — Governança & Segurança  
-📁 `07-governanca-e-seguranca/`
+## [7-Governança e Segurança](7-governanca-e-seguranca)
 
 - IAM
 - Segurança por linha e coluna
@@ -143,8 +135,7 @@ Princípios escalam.
 
 ---
 
-## 📊 08 — Serving & Analytics  
-📁 `08-serving-analytics/`
+## [8-Servindo Analytics](8-servindo-analytics)
 
 - Presto / Trino / Athena
 - Power BI em escala
@@ -154,8 +145,7 @@ Princípios escalam.
 
 ---
 
-## 🤖 09 — ML & IA na Plataforma  
-📁 `09-ml-e-ia-integracao/`
+## [9-ML e IA](9-ml-e-ia-integracao)
 
 - Arquitetura de ML integrada
 - Feature Store
@@ -166,8 +156,7 @@ Princípios escalam.
 
 ---
 
-## 📈 10 — Observabilidade & FinOps  
-📁 `10-observabilidade-finops/`
+## [10-Observabilidade e Finops](10-observabilidade-finops)
 
 - SLOs & SLAs
 - Error budget
@@ -177,8 +166,7 @@ Princípios escalam.
 
 ---
 
-## 🚀 11 — CI/CD & DataOps  
-📁 `11-ci-cd-dataops/`
+## [11-CI/CD e DataOPs](11-ci-cd-dataops)
 
 - PR e revisão
 - Gates de qualidade
@@ -189,14 +177,14 @@ Princípios escalam.
 
 ---
 
-## 🧩 12 — Cenários Reais  
-📁 `12-cenarios-reais/`
+## [12-Cenários Reais](12-cenarios-reais)
 
 - Varejo end-to-end
 - Plataforma regulada financeira
 - Escala 100x
 - Checklist executivo
 
+  
 ---
 
 # 📊 Fluxo Conceitual
@@ -216,7 +204,7 @@ Tudo está conectado.
 
 ---
 
-# 🧠 Para quem é
+# 🧠 Para quem é esse repositório
 
 - Engenheiros de Dados (Senior/Staff)
 - Arquitetos
@@ -227,7 +215,7 @@ Tudo está conectado.
 
 ---
 
-# 🔎 O qua você vai encontrar aqui
+# 🔎 O que você vai encontrar aqui:
 
 Modern Data Platform  
 Arquitetura de Dados  
@@ -259,6 +247,11 @@ Encontrará nesse repositório, seja para estudar ou aplicar.
 
 ---
 
-# Autor - Fabio Marçolia | Carreira em Dados & IA
+## Autor - Fabio Marçolia | Carreira em Dados & IA
 
-Dicas e sugestões: Vamos nos Conectar e falar no [Linkedin](http://linkedin.com/in/fabiomarcolia) 🤝
+Para mais conteúdo de Python, Carreira em Dados e IA, ou se quiser falar comigo sobre dúvidas, sugestões ou feedback:
+
+- Linkedin: [Vamos nos conectar e me envie uma mensagem🤝](http://linkedin.com/in/fabiomarcolia)
+- Mais Recursos de Carreira: [Veja aqui](https://topmate.io/fabiomarcolia)
+
+Agradeço seu apoio e fique a vontade de entrar em contato comigo!
