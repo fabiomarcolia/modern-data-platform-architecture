@@ -39,6 +39,8 @@ Este não é um repositório de ferramentas.
 
 Construído para profissionais que querem pensar além de pipelines.
 
+![Plataforma de Dados Moderna](assets/diagramas/principal_readme.png)
+
 ---
 
 # 🏛️ Filosofia de Plataforma
@@ -225,7 +227,7 @@ Tudo está conectado.
 
 ---
 
-# 🔎 Palavras-chave Estratégicas
+# 🔎 O qua você vai encontrar aqui
 
 Modern Data Platform  
 Arquitetura de Dados  
@@ -239,13 +241,13 @@ Feature Store
 RAG Corporativo  
 CI/CD para Dados  
 DataOps  
-Power BI em escala  
+Power BI / Business Intelligence em escala  
 
 ---
 
 # 📌 Conclusão
 
-Se sua plataforma não possui:
+Se você quer entender melhor sobre:
 
 - Governança clara
 - SLO definidos
@@ -253,6 +255,8 @@ Se sua plataforma não possui:
 - Estratégia de rollback
 - Integração com IA
 
-Ela ainda não é madura.
+Encontrará nesse repositório, seja para estudar ou aplicar.
 
-Este repositório existe para mudar isso.
+## Autor - Fabio Marçolia | Carreira em Dados & IA
+
+Dicas e sugestões: Vamos nos Conectar e falar no [Linkedin](http://linkedin.com/in/fabiomarcolia) 🤝
