@@ -20,10 +20,10 @@ Aqui você encontra:
 
 ## 📂 Conteúdo
 
-1. [Arquitetura de Referência](./arquitetura-de-referencia.md)  
-2. [Lakehouse na AWS](./lakehouse-aws.md)  
-3. [Plataforma Moderna na GCP](./plataforma-moderna-gcp.md)  
-4. [Trade-offs Arquiteturais](./tradeoffs-arquitetura.md)
+1. [Arquitetura de Referência](1-arquitetura-de-referencia.md)
+2. [Lakehouse na AWS](2-lakehouse-aws.md)  
+3. [Plataforma Moderna na GCP](3-plataforma-moderna-gcp.md)  
+4. [Trade-offs Arquiteturais](4-tradeoffs-arquitetura.md)
 
 ---
 
