@@ -34,4 +34,4 @@ Aqui você encontra:
 
 ## 🔜 Próximo Capítulo
 
-➡️ Siga para: **02-ingestao/**
+[2-Ingestão]](../2-ingestao)
