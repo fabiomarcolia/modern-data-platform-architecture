@@ -177,13 +177,13 @@ Princípios escalam.
 
 ---
 
-### [12-Cenários Reais](12-cenarios-reais)
+### [Data Engineering](12-cenarios-reais)
 
-- Varejo end-to-end
-- Plataforma regulada financeira
-- Escala 100x
-- Checklist executivo
-
+- Arquitetura
+- Pipelines
+- Maturidade de Engenharia
+- Decições Comparativas
+- Modelo de Avaliação - Profissional de Engenharia de Dados
   
 ---
 
@@ -249,7 +249,7 @@ Encontrará nesse repositório, seja para estudar ou aplicar.
 
 ## Autor - Fabio Marçolia | Carreira em Dados & IA
 
-Para mais conteúdo de Python, Carreira em Dados e IA, ou se quiser falar comigo sobre dúvidas, sugestões ou feedback:
+Para mais conteúdo Carreira em Dados e IA, ou se quiser falar comigo sobre dúvidas, sugestões ou feedback:
 
 - Linkedin: [Vamos nos conectar e me envie uma mensagem🤝](http://linkedin.com/in/fabiomarcolia)
 - Mais Recursos de Carreira: [Veja aqui](https://topmate.io/fabiomarcolia)
