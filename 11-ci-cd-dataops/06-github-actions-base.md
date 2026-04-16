@@ -1,6 +1,19 @@
 # GitHub Actions: Pipeline Base (exemplo)
 
-Abaixo um exemplo minimalista e realista para PR:
+Um pipeline base no GitHub Actions é um arquivo YAML localizado em .github/workflows/, que automatiza CI/CD (construção, testes e deploy) ao disparar ações com eventos como push ou pull request na main.
+
+Essencial para automação, utiliza jobs e steps em ambientes virtuais como Ubuntu para garantir a qualidade do código.
+
+---
+
+![Github Actions](../assets/diagramas/github-actions.png)
+
+---
+
+
+Uma pipeline básica no GitHub Actions é definida por um arquivo .yml dentro da pasta .github/workflows/. 
+
+Aqui está um exemplo essencial para testar e buildar um projeto:
 
 ```yaml
 name: ci-dados
@@ -33,6 +46,15 @@ jobs:
 ```
 
 ---
+
+### Componentes Principais:
+
+- on: Gatilhos que iniciam o workflow (push, pull request, agendamento).
+
+- jobs: Conjunto de etapas executadas no mesmo servidor.
+
+- steps: Tarefas individuais, como rodar comandos ou usar Actions prontas da comunidade. 
+
 
 ## Evolução (nível plataforma)
 

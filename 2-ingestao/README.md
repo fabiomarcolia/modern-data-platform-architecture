@@ -6,8 +6,10 @@ Aqui você aprende:
 - Quando usar Batch vs Streaming
 - CDC como estratégia estrutural
 - Evolução de schema sem quebrar downstream
-- Impacto operacional real das decisões
+- Impacto operacional real das decisões                                                                                                                                      
 
+![Data Ingestion](../assets/diagramas/data-ingestion.png)
+Principais ferramentas de ingestão Batch e Streaming
 ---
 
 ## 📂 Conteúdo
@@ -22,6 +24,8 @@ Aqui você aprende:
 
 Sua ingestão foi desenhada para crescer…  
 ou apenas para funcionar agora?
+
+
 
 ---
 

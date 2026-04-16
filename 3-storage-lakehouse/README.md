@@ -11,6 +11,9 @@ Este capítulo aprofunda:
 - Small files e metadata explosion
 - Time travel na prática
 
+![Data Storage](/assets/diagramas/data-storage.png)
+Principais ferramentas e recursos                                    
+
 ---
 
 ## 📂 Conteúdo

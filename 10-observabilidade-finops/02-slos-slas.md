@@ -1,10 +1,40 @@
-# SLOs e SLAs para Dados
+# SLOs, SLAs e SLIs para Dados
 
-SLO = objetivo interno de confiabilidade (engenharia).
-SLA = compromisso com o consumidor (negócio).
+SLOs (Objetivos de Nível de Serviço) e SLAs (Acordos de Nível de Serviço) para dados definem metas de qualidade e confiabilidade, como tempo de atualização e integridade, garantindo que os dados sejam confiáveis para decisões de negócios. Eles baseiam-se em SLIs (indicadores) para monitorar e manter a confiança, estabelecendo métricas claras. 
 
-Serving maduro (Cap. 08) pede SLO.
-ML/IA (Cap. 09) pede SLO.
+- SLO = objetivo interno de confiabilidade (engenharia).
+- SLA = compromisso com o consumidor (negócio).
+
+### Conceitos Principais 
+
+- SLI (Service Level Indicator): A métrica técnica que mede o que está acontecendo (ex: % de pipelines concluídos no horário).
+
+- SLO (Service Level Objective): A meta interna (o alvo) baseada no SLI (ex: 
+ das tabelas atualizadas até 08:00).
+
+- SLA (Service Level Agreement): O contrato formal com o cliente, geralmente com penalidades financeiras se o SLO não for atingido (ex: 
+ de falhas de dados por mês). 
+
+### Exemplos de SLOs para Dados:
+
+- Frescor (Freshness): Dados do dashboard de vendas atualizados 
+ das vezes até 06:00 AM.
+
+- Integridade (Completeness): Menos de 
+ de registros nulos em colunas críticas (ex: ID_Cliente).
+
+- Precisão (Accuracy): Taxa de erro nos dados financeiros.
+
+- Volume: O tamanho da tabela diária não deve variar mais que 
+ em relação à média dos últimos 7 dias. 
+
+### Benefícios de SLAs/SLOs de Dados:
+
+- Confiança: Aumenta a confiança dos usuários nos dados, evitando decisões baseadas em informações erradas.
+
+- Responsabilidade: Define claramente quem é o proprietário dos dados e quem responde pelas falhas.
+
+- Priorização: Ajuda equipes de dados a focar na estabilidade dos pipelines mais importantes (usando error budgets).
 
 ---
 
@@ -35,6 +65,11 @@ Se o error budget estoura:
 - prioriza confiabilidade
 
 ---
+
+Serving maduro (Cap. 08) pede SLO.
+ML/IA (Cap. 09) pede SLO.
+
+--- 
 
 ## 🔜 Próximo
 

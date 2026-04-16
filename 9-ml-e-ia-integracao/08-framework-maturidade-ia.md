@@ -1,6 +1,10 @@
 # Framework de Maturidade de IA na Plataforma
 
-Use este framework para diagnóstico e roadmap.
+Um framework de maturidade de IA em uma Modern Data Platform (MDP) serve como um roteiro estratégico para evoluir de simples análises descritivas para sistemas autônomos e transformadores. Embora consultorias como Gartner e MIT variem nos nomes, a jornada geralmente segue estes 4 a 5 estágios fundamentais:
+
+---
+
+![Framework de Maturidade IA](../assets/diagramas/framework-maturidade-ia.png)
 
 ---
 

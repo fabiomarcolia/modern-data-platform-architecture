@@ -1,4 +1,4 @@
-# 🏗️ Arquitetura
+# Arquitetura
 
 Este capítulo transforma visão em estrutura técnica **orientada a decisões**.
 
@@ -27,14 +27,9 @@ Aqui você encontra:
 
 ---
 
-## 🧩 Diagramas Oficiais (PNG)
+![Modern Data Platform | Fabio Marçolia](../assets/diagramas/modern-data-platform-arquitetura.png)
 
-Os diagramas oficiais ficam na raiz do repositório em:
-
-- `diagrams/assets/*.png`
-
-Neste capítulo, os arquivos fazem referência a esses PNGs usando caminhos relativos.
-
+#### 💡Principais ferremantas e recursos envolvidos
 ---
 
 ## 🔜 Próximo Capítulo

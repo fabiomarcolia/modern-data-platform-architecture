@@ -27,3 +27,7 @@ Regulação e auditoria são parte do sistema.
 ## Lição
 Em finanças, IA sem governança não é inovação.
 É risco.
+
+## 🔜 Próximo
+
+➡️ [Observabilidade e Finops](../10-observabilidade-finops)

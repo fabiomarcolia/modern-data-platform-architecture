@@ -24,4 +24,4 @@ Arquiteto de plataforma
 
 ## 🔜 Próximo Capítulo
 
-➡️ 05-orchestration/
+➡️ [Orquestração](../5-orquestracao)

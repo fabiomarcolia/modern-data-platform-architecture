@@ -11,6 +11,8 @@ Este capítulo conecta:
 - KPIs executivos e governança
 
 ---
+![Obeservabilidade e Finops](../assets/diagramas/observabilidade-finops.png)
+---
 
 ## 📐 Diagramas deste capítulo
 
@@ -41,4 +43,4 @@ Este capítulo conecta:
 
 ## 🔜 Próximo
 
-➡️ 11-ci-cd-dataops/
+➡️ [CI/CD](../11-ci-cd-dataops)

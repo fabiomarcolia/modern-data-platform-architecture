@@ -1,6 +1,10 @@
 # 🚀 11 - CI/CD & DataOps (Maturidade de Engenharia)
 
-Se você quer autoridade real em plataforma, este capítulo é obrigatório.
+Se você quer autoridade real em plataforma de dados, este capítulo é obrigatório.
+
+O nível de maturidade em DataOps e CI/CD (Integração Contínua e Entrega Contínua) define o quanto uma equipe de engenharia de dados consegue entregar valor com velocidade e confiabilidade. Diferente do desenvolvimento de software tradicional, a maturidade aqui exige o controle não apenas do código, mas também da volatilidade dos dados e da infraestrutura. 
+
+![CI/DC DataOps](../assets/diagramas/cicd-dataops.png)
 
 Aqui você aprende a tratar dados como software:
 - PR, revisão, gates e releases
@@ -16,13 +20,13 @@ Aqui você aprende a tratar dados como software:
 ## 📐 Diagramas deste capítulo
 
 1. **CI/CD para Dados (fluxo completo)**  
-   ![CI/CD](../diagrams/assets/cicd-dados-fluxo.png)
+   ![CI/CD](/assets/diagramas/cicd-dados-fluxo.png)
 
 2. **Promoção entre Ambientes**  
-   ![Ambientes](../diagrams/assets/promocao-ambientes.png)
+   ![Ambientes](/assets/diagramas/promocao-ambientes.png)
 
 3. **DataOps Loop**  
-   ![DataOps](../diagrams/assets/dataops-loop.png)
+   ![DataOps](/assets/diagramas/dataops-loop.png)
 
 ---
 
@@ -43,4 +47,4 @@ Aqui você aprende a tratar dados como software:
 
 ## 🔜 Próximo
 
-➡️ 12-cenarios-reais/
+➡️ [Data Engineer](../0-visao-plataforma/README.md)12-cenarios-reais/

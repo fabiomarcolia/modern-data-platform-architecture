@@ -3,7 +3,10 @@
 Orquestração é onde plataformas maduras se diferenciam de pipelines improvisados.
 
 Pipeline que roda não é plataforma.
+
 Pipeline observável, reprocessável e previsível é.
+
+![Orquestração e Pipelines](../assets/diagramas/orquestracao.png)
 
 Este capítulo aprofunda:
 
@@ -38,4 +41,4 @@ Você sabe:
 
 ## 🔜 Próximo Capítulo
 
-➡️ 06-data-quality/
+➡️ [6-Qualidade de Dados](../6-qualidade-de-dados)

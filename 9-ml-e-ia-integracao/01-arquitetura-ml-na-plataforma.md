@@ -2,11 +2,35 @@
 
 ML em produção é um **sistema**. Não um notebook.
 
+Uma arquitetura de Machine Learning (ML) integrada a uma Modern Data Platform (MDP) baseia-se na unificação de dados para eliminar silos, permitindo que modelos de IA acessem informações estruturadas e não estruturadas em um único ecossistema. O pilar central dessa arquitetura é frequentemente o Data Lakehouse, que combina a escalabilidade de custo do Data Lake com a governança e performance do Data Warehouse. 
+
+### Componentes Principais da Arquitetura
+A estrutura segue geralmente o padrão de Arquitetura Medalhão, organizando o fluxo de dados para consumo por modelos de ML:
+
+- Ingestão e Armazenamento (Bronze): Coleta de dados brutos (logs, APIs, IoT) em formatos abertos no Azure Data Lake Storage ou Amazon S3.
+
+- Processamento e Limpeza (Silver): Transformação e validação dos dados utilizando ferramentas como Databricks, Azure Synapse, ou Spark preparando-os para o treinamento.
+
+- Enriquecimento e Consumo (Gold): Dados agregados e prontos para o negócio, onde modelos de ML realizam inferências ou são alimentados para gerar insights preditivos.
+
+- Camada de ML/AI (MLOps): Integração de ferramentas como Azure Machine Learning ou Amazon SageMaker para o ciclo de vida completo: experimentação, treinamento, catálogo de modelos e implantação. 
+
+### Benefícios da Integração
+
+- 1- Eliminação de Movimentação de Dados: Treinamento e inferência ocorrem diretamente sobre o armazenamento escalável, reduzindo latência e custos.
+
+- 2- Governança Unificada: Uso de ferramentas como Azure Purview para garantir linhagem e segurança dos dados usados pela IA.
+
+- 3- Escalabilidade Nativa: Capacidade de processar grandes volumes de dados para modelos complexos (como LLMs) usando infraestrutura sob demanda.
+
+
+--- 
+
 A arquitetura madura conecta o ciclo completo:
 
 **Dados Curados → Features → Treino → Registro → Deploy → Monitoramento → Re-treino**
 
-![ML End-to-End](../diagrams/assets/ml-na-plataforma-arquitetura.png)
+![ML End-to-End](/assets/diagramas/ml-na-plataforma-arquitetura.png)
 
 ---
 

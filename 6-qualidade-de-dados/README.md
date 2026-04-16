@@ -3,6 +3,8 @@
 Qualidade de dados não é “ter testes”.
 É garantir confiança organizacional em escala.
 
+![Qualidade de Dados](../assets/diagramas/qualidade-de-dados.png)
+
 Este capítulo aborda:
 
 - Qualidade como camada arquitetural
@@ -21,14 +23,10 @@ Este capítulo aborda:
 
 ---
 
-## 📐 Arquitetura onde qualidade é transversal
-
-![Arquitetura Evolutiva](../diagrams/assets/evolutionary-architecture.png)
-
-Qualidade atravessa ingestão, armazenamento, processamento e serving.
+- Qualidade atravessa ingestão, armazenamento, processamento e analytics.
 
 ---
 
 ## 🔜 Próximo Capítulo
 
-➡️ 07-governanca-e-seguranca/
+➡️ [7-governanca-e-seguranca](../7-governanca-e-seguranca)

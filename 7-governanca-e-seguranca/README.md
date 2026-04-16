@@ -15,6 +15,8 @@ Este capítulo aprofunda:
 - Governança como responsabilidade estrutural
 - Conexão entre tecnologia, risco e jurídico
 
+![Modern Data Platform | Governança e Segurança](../assets/diagramas/governanca-segurança.png)
+
 ---
 
 ## 📂 Conteúdo
@@ -25,10 +27,6 @@ Este capítulo aprofunda:
 
 ---
 
-## 📐 Arquitetura Transversal
-
-![Arquitetura Evolutiva](../diagrams/assets/evolutionary-architecture.png)
-
 Governança não é camada final.
 É camada transversal.
 
@@ -36,4 +34,4 @@ Governança não é camada final.
 
 ## 🔜 Próximo Capítulo
 
-➡️ 08-serving-analytics/
+➡️ [Analytics](../8-servindo-analytics)
