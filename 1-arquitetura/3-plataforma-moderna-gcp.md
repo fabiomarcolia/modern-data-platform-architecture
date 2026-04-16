@@ -51,4 +51,4 @@ GCP costuma ser escolhida quando a prioridade é:
 
 ## 🔜 Próximo tópico
 
-➡️ Continue para: [Trade-offs Arquiteturais](./tradeoffs-arquitetura.md)
+➡️ Continue para: [Trade-offs Arquiteturais](4-tradeoffs-arquitetura.md)

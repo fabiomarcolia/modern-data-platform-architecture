@@ -86,4 +86,4 @@ Evite Spark quando:
 
 ## 🔜 Próximo tópico
 
-➡️ Continue para: [Lakehouse na AWS](./lakehouse-aws.md)
+➡️ Continue para: [Lakehouse na AWS](2-lakehouse-aws.md)

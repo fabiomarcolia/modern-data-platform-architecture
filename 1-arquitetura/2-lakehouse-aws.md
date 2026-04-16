@@ -64,4 +64,4 @@ Regra prática:
 
 ## 🔜 Próximo tópico
 
-➡️ Continue para: [Plataforma Moderna na GCP](./plataforma-moderna-gcp.md)
+➡️ Continue para: [Plataforma Moderna na GCP](3-plataforma-moderna-gcp.md)
