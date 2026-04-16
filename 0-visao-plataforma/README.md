@@ -28,4 +28,4 @@ Se este capítulo não estiver claro, o restante do repositório vira apenas tec
 
 ## 🔜 Próximo Capítulo
 
-➡️ [Arquitetura](../1-arquitetura)
+- [1-Arquitetura](../1-arquitetura)
