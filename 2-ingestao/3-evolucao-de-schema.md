@@ -43,4 +43,4 @@ Sua plataforma absorve mudança ou quebra com ela?
 
 ## 🔜 Próximo Capítulo
 
-➡️ [Storage e Lakehouse](../3-storage-lakehouse)
+- [3-Storage e Lakehouse](../3-storage-lakehouse)

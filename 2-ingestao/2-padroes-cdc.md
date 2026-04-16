@@ -52,4 +52,4 @@ CDC mal desenhado gera:
 
 ## 🔜 Próximo
 
-➡️ [Evolução de Schema](./evolucao-de-schema.md)
+➡️ [Evolução de Schema](3-evolucao-de-schema.md)

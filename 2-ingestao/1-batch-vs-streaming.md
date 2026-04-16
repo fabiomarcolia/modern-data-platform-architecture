@@ -59,4 +59,4 @@ Streaming sem necessidade é dívida técnica acelerada.
 
 ## 🔜 Próximo
 
-➡️ [Padrões de CDC](./padroes-cdc.md)
+➡️ [Padrões de CDC](2-padroes-cdc.md)
