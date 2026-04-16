@@ -66,4 +66,4 @@ Sem SLO, não existe melhoria contínua.
 
 ## 🔜 Próximo Capítulo
 
-➡️ [6-Qualidade de Dados](../6-qualidade-de-dados)
+- [6-Qualidade de Dados](../6-qualidade-de-dados)

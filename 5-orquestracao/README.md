@@ -21,9 +21,9 @@ Este capítulo aprofunda:
 
 ## 📂 Conteúdo
 
-1. [Airflow em Produção](./airflow-em-producao.md)  
-2. [Princípios de Design de DAG](./principios-design-dag.md)  
-3. [Orquestração Orientada a Eventos](./orquestracao-eventos.md)
+1. [Airflow em Produção](1-airflow-em-producao.md)  
+2. [Princípios de Design de DAG](2-principios-design-dag.md)  
+3. [Orquestração Orientada a Eventos](3-orquestracao-eventos.md)
 
 ---
 
@@ -41,4 +41,4 @@ Você sabe:
 
 ## 🔜 Próximo Capítulo
 
-➡️ [6-Qualidade de Dados](../6-qualidade-de-dados)
+- [6-Qualidade de Dados](../6-qualidade-de-dados)

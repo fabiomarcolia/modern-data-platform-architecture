@@ -77,4 +77,4 @@ O sucesso desses estudos de caso mostra que a vantagem competitiva não vem apen
 
 ## 🔜 Próximo
 
-➡️ [ML e IA](../9-ml-e-ia-integracao)
+- [ML e IA](../9-ml-e-ia-integracao)

@@ -21,9 +21,9 @@ Este capítulo aprofunda:
 
 ## 📂 Conteúdo
 
-1. [Modelos de Controle de Acesso](./modelos-de-controle-de-acesso.md)  
-2. [Segurança em Nível de Linha e Coluna](./seguranca-nivel-linha-coluna.md)  
-3. [Classificação, Auditoria e Rastreabilidade](./classificacao-auditoria-rastreabilidade.md)
+1. [Modelos de Controle de Acesso](1-modelos-de-controle-de-acesso.md)  
+2. [Segurança em Nível de Linha e Coluna](2-seguranca-nivel-linha-coluna.md)  
+3. [Classificação, Auditoria e Rastreabilidade](3-classificacao-auditoria-rastreabilidade.md)
 
 ---
 
@@ -34,4 +34,4 @@ Governança não é camada final.
 
 ## 🔜 Próximo Capítulo
 
-➡️ [Analytics](../8-servindo-analytics)
+- [8-Serving Analytics](../8-servindo-analytics)

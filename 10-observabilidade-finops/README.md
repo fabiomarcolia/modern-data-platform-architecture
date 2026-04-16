@@ -29,18 +29,18 @@ Este capítulo conecta:
 
 ## 📂 Conteúdo
 
-1. [O que é Observabilidade de Dados](./01-o-que-e-observabilidade.md)  
-2. [SLOs e SLAs para Dados](./02-slos-slas.md)  
-3. [Incidentes: Triage, Impacto e Playbooks](./03-incidentes-playbooks.md)  
-4. [Métricas de Plataforma (o que medir)](./04-metricas-plataforma.md)  
-5. [FinOps em Dados (modelo prático)](./05-finops-em-dados.md)  
-6. [FinOps + Governança (elo executivo)](./06-finops-governanca.md)  
-7. [Checklist de Sustentabilidade (90 dias)](./07-checklist-90-dias.md)  
-8. [Estudo de Caso — “Custo explodiu”](./08-caso-custo-explodiu.md)  
-9. [Estudo de Caso — “Dados quebraram o board”](./09-caso-incidente-board.md)
+1. [O que é Observabilidade de Dados](1-o-que-e-observabilidade.md)  
+2. [SLOs e SLAs para Dados](2-slos-slas.md)  
+3. [Incidentes: Triage, Impacto e Playbooks](3-incidentes-playbooks.md)  
+4. [Métricas de Plataforma (o que medir)](4-metricas-plataforma.md)  
+5. [FinOps em Dados (modelo prático)](5-finops-em-dados.md)  
+6. [FinOps + Governança (elo executivo)](6-finops-governanca.md)  
+7. [Checklist de Sustentabilidade (90 dias)](7-checklist-90-dias.md)  
+8. [Estudo de Caso — “Custo explodiu”](8-caso-custo-explodiu.md)  
+9. [Estudo de Caso — “Dados quebraram o board”](9-caso-incidente-board.md)
 
 ---
 
 ## 🔜 Próximo
 
-➡️ [CI/CD](../11-ci-cd-dataops)
+- [CI/CD](../11-ci-cd-dataops)

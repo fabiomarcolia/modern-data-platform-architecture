@@ -32,19 +32,19 @@ Aqui você aprende a tratar dados como software:
 
 ## 📂 Conteúdo
 
-1. [O que é CI/CD para Dados](./01-o-que-e-cicd-para-dados.md)  
-2. [Estratégia de Branching e PRs](./02-branching-e-prs.md)  
-3. [Ambientes e Promoção (DEV→STG→PROD)](./03-ambientes-e-promocao.md)  
-4. [Gates: Testes, Contratos e Qualidade](./04-gates-testes-contratos.md)  
-5. [Deploy & Rollback de Pipelines](./05-deploy-e-rollback.md)  
-6. [GitHub Actions: Pipeline Base](./06-github-actions-base.md)  
-7. [Gerenciamento de Secrets e Segurança](./07-secrets-e-seguranca.md)  
-8. [Estratégias de Release e Versionamento](./08-release-versionamento.md)  
-9. [Checklist de DataOps (30/60/90)](./09-checklist-dataops.md)  
-10. [Casos Reais: o que dá errado](./10-casos-reais.md)
+1. [O que é CI/CD para Dados](1-o-que-e-cicd-para-dados.md)  
+2. [Estratégia de Branching e PRs](2-branching-e-prs.md)  
+3. [Ambientes e Promoção (DEV→STG→PROD)](3-ambientes-e-promocao.md)  
+4. [Gates: Testes, Contratos e Qualidade](4-gates-testes-contratos.md)  
+5. [Deploy & Rollback de Pipelines](5-deploy-e-rollback.md)  
+6. [GitHub Actions: Pipeline Base](6-github-actions-base.md)  
+7. [Gerenciamento de Secrets e Segurança](7-secrets-e-seguranca.md)  
+8. [Estratégias de Release e Versionamento](8-release-versionamento.md)  
+9. [Checklist de DataOps (30/60/90)](9-checklist-dataops.md)  
+10. [Casos Reais: o que dá errado](10-casos-reais.md)
 
 ---
 
 ## 🔜 Próximo
 
-➡️ [Data Engineer](../0-visao-plataforma/README.md)12-cenarios-reais/
+- [Data Engineer](../0-visao-plataforma/README.md)12-cenarios-reais/

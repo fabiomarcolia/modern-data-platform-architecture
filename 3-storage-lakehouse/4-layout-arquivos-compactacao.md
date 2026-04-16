@@ -37,4 +37,4 @@ Sua estratégia considera custo de leitura ou apenas velocidade de ingestão?
 
 ## 🔜 Próximo Capítulo
 
-➡️ [4-Processamento](../4-processamento)
+[4-Processamento](../4-processamento)
