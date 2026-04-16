@@ -51,4 +51,4 @@ Quem foge de trade-off vira refém do acaso.
 
 ## 🔜 Próximo Capítulo
 
-- [Ingestão](../2-ingestao)
+- [2-Ingestão](../2-ingestao)

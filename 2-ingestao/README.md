@@ -14,9 +14,9 @@ Principais ferramentas de ingestão Batch e Streaming
 
 ## 📂 Conteúdo
 
-1. [Batch vs Streaming](./batch-vs-streaming.md)  
-2. [Padrões de CDC](./padroes-cdc.md)  
-3. [Evolução de Schema](./evolucao-de-schema.md)
+1. [Batch vs Streaming](1-batch-vs-streaming.md)  
+2. [Padrões de CDC](2-padroes-cdc.md)  
+3. [Evolução de Schema](3-evolucao-de-schema.md)
 
 ---
 
@@ -31,4 +31,4 @@ ou apenas para funcionar agora?
 
 ## 🔜 Próximo Capítulo
 
-➡️ 03-storage-lakehouse/
+[3-Storage & Lakahouse](../3-storage-lakehouse)
