@@ -70,4 +70,4 @@ As equipes de dados utilizam plataformas de automação como GitHub Actions, Git
 
 ## 🔜 Próximo
 
-➡️ [Branchin e PRs](02-branching-e-prs.md)
+➡️ [Branchin e PRs](2-branching-e-prs.md)

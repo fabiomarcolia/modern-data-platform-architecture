@@ -47,4 +47,4 @@ Aqui você aprende a tratar dados como software:
 
 ## 🔜 Próximo
 
-- [Data Engineer](../0-visao-plataforma/README.md)12-cenarios-reais/
+- [12-Data Engineer](../12-data-engineer)

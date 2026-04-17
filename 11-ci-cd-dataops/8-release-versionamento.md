@@ -90,5 +90,5 @@ Ao adotar essas estratégias, os projetos de dados tornam-se reprodutíveis, per
 
 ## 🔜 Próximo
 
-➡️ [Checklist DataOps](09-checklist-dataops.md)
+➡️ [Checklist DataOps](9-checklist-dataops.md)
 

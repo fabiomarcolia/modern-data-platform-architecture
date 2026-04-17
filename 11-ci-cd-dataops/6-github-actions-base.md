@@ -67,4 +67,4 @@ jobs:
 
 ## 🔜 Próximo
 
-➡️ [Secrets e Segurança](./07-secrets-e-seguranca.md)
+➡️ [Secrets e Segurança](7-secrets-e-seguranca.md)

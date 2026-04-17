@@ -66,4 +66,4 @@ Para gerenciar esses fluxos, as ferramentas mais comuns incluem:
 
 ## 🔜 Próximo
 
-➡️ [GitHub Actions Base](./06-github-actions-base.md)
+➡️ [GitHub Actions Base](6-github-actions-base.md)

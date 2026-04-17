@@ -57,4 +57,4 @@ O GitHub permite organizar segredos em três camadas principais:
 
 ## 🔜 Próximo
 
-➡️ [Release e Versionamento](./08-release-versionamento.md)
+➡️ [Release e Versionamento](8-release-versionamento.md)
