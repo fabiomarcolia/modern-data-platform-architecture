@@ -34,4 +34,4 @@ Governança não é camada final.
 
 ## 🔜 Próximo Capítulo
 
-- [8-Serving Analytics](../8-servindo-analytics)
+- [8-Serving Analytics](../8-serving-analytics)

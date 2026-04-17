@@ -69,4 +69,4 @@ Segurança deve existir:
 
 ## 🔜 Próximo
 
-➡️ [Classificação, Auditoria e Rastreabilidade](./classificacao-auditoria-rastreabilidade.md)
+➡️ [Classificação, Auditoria e Rastreabilidade](3-classificacao-auditoria-rastreabilidade.md)
