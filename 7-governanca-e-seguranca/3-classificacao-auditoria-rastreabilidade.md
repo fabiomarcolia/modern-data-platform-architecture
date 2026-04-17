@@ -116,4 +116,4 @@ Governança não é custo.
 
 ## 🔜 Próximo Capítulo
 
-➡️ [Serving Analytics](8-serving-analytics)
+- [8-Serving Analytics](../8-serving-analytics)
