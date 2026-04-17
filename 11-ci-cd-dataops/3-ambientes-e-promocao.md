@@ -75,4 +75,4 @@ A promoção de dados deve ser automatizada através de pipelines CI/CD (Integra
 
 ## 🔜 Próximo
 
-➡️ [Gates](4-gates-testes-contratos.md)
+➡️ [Gates e Testes](4-gates-testes-contratos.md)
