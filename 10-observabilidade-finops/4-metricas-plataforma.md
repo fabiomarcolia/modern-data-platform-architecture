@@ -102,4 +102,4 @@ Para gerenciar tudo isso, ferramentas de Observabilidade de Dados (como a Monte 
 
 ## 🔜 Próximo
 
-➡️ [FinOps em Dados](./05-finops-em-dados.md)
+➡️ [FinOps em Dados](5-finops-em-dados.md)

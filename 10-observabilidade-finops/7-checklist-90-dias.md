@@ -75,4 +75,4 @@ Institucionalizar práticas para garantir que a plataforma permaneça eficiente 
 
 ## 🔜 Próximo
 
-➡️ [Caso: custo explodiu](./08-caso-custo-explodiu.md)
+➡️ [Caso: custo explodiu](8-caso-custo-explodiu.md)

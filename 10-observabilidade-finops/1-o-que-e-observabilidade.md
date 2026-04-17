@@ -64,4 +64,4 @@ Enquanto o monitoramento informa se um sistema está funcionando ou não (basead
 
 ## 🔜 Próximo
 
-➡️ [SLOs e SLAs](./02-slos-slas.md)
+➡️ [SLOs e SLAs](2-slos-slas.md)

@@ -63,4 +63,4 @@ Para medir o sucesso, as empresas utilizam métricas de Unit Economics:
 
 ## 🔜 Próximo
 
-➡️ [FinOps + Governança](./06-finops-governanca.md)
+➡️ [FinOps + Governança](6-finops-governanca.md)

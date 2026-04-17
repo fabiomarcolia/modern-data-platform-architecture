@@ -75,5 +75,5 @@ Athena/BigQuery batendo recorde de custo e ninguém entende por quê.
 
 ## 🔜 Próximo
 
-➡️ [Incidentes em dados](09-caso-incidente-board.md)
+➡️ [Incidentes em dados](9-caso-incidente-board.md)
 

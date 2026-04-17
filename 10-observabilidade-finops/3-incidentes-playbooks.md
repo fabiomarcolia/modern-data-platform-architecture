@@ -116,4 +116,4 @@ Exemplo de Playbook para Vazamento de Dados (Data Breach):
 
 ## 🔜 Próximo
 
-➡️ [Métricas de Plataforma](./04-metricas-plataforma.md)
+➡️ [Métricas de Plataforma](4-metricas-plataforma.md)

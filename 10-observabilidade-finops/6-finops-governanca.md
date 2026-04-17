@@ -60,4 +60,4 @@ Classificação de dados
 
 ## 🔜 Próximo
 
-➡️ [Checklist 90 dias](./07-checklist-90-dias.md)
+➡️ [Checklist 90 dias](7-checklist-90-dias.md)

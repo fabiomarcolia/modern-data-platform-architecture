@@ -43,4 +43,4 @@ Este capítulo conecta:
 
 ## 🔜 Próximo
 
-- [11-CI/CD](../11-ci-cd-dataops)
+- [11-CI/DC DataOps](../11-ci-cd-dataops)

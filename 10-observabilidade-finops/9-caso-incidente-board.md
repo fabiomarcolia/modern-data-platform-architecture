@@ -65,4 +65,4 @@ Para manter o board "vivo", plataformas modernas agora focam em Data Observabili
 
 ## 🔜 Próximo
 
-- [CI/DC DataOps](../11-ci-cd-dataops)
+- [11-CI/DC DataOps](../11-ci-cd-dataops)
