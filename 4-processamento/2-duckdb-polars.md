@@ -34,11 +34,11 @@ Ferramentas modernas single-node conseguem:
 ---
 
 ### DuckDB vs Polars
-![alt text](<../assets/diagramas/polar vs duckdb.png>)
+![alt text](<../assets/diagramas/polar-vs-duckdb.png>)
 
 -> Nem sempre a decisão é simples
 
-![alt text](<../assets/diagramas/polar vs duckdb2.png>)
+![alt text](<../assets/diagramas/polar-vs-duckdb2.png>)
 
 💡Analise certinho o cenário e o que precisa realmente ser revolvido.
 
