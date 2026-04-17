@@ -60,4 +60,4 @@ a pipelines estruturados e monitorados.
 
 ## 🔜 Próximo
 
-➡️ [DuckDB e Polars](./duckdb-polars.md)
+➡️ [DuckDB e Polars](2-duckdb-polars.md)

@@ -76,4 +76,4 @@ Ferramenta não deve ditar arquitetura.
 
 ## 🔜 Próximo
 
-➡️ [Plataformas SQL-First](./sql-first-platforms.md)
+➡️ [Plataformas SQL-First](3-sql-first-platforms.md)
