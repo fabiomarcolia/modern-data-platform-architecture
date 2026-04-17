@@ -72,18 +72,18 @@ integrando:
 
 ## 📂 Conteúdo
 
-- 1. [Arquitetura e Pipelines](1-arquitetura-pipelines-avancada.md)
-- 2. [Pipeline Distribuido](2-pipeline-distribuido-referencia.md)
-- 3. [Maturidade de Engenharia de Dados](3-maturidade-engenharia-de-dados.md)
-- 4. [Engenheiro, Finops e Observabilidade](4-engenharia-finops-observabilidade.md)
-- 5. [Decisões Comparativas | Spark | Flink | SQL Engines](5-decisoes-comparativas-spark-flink-sql-engines.md)
-- 6. [Modelo de Avaliação para Entrevistas](7-modelo-avaliacao-entrevista-staff.md)
+- [1-Arquitetura e Pipelines](1-arquitetura-pipelines-avancada.md)
+- [2-Pipeline Distribuido](2-pipeline-distribuido-referencia.md)
+- [3-Maturidade de Engenharia de Dados](3-maturidade-engenharia-de-dados.md)
+- [4-Engenheiro, Finops e Observabilidade](4-engenharia-finops-observabilidade.md)
+- [5-Decisões Comparativas | Spark | Flink | SQL Engines](5-decisoes-comparativas-spark-flink-sql-engines.md)
+- [Modelo de Avaliação para Entrevistas](7-modelo-avaliacao-entrevista-staff.md)
 
 ---
 
 Este capítulo conecta diretamente com:
 
 - [03-storage-lakehouse](../3-storage-lakehouse)
-- [-05-orquestração](../5-orquestracao)  
+- [05-orquestração](../5-orquestracao)  
 - [06-qualidade-de-dados](../6-qualidade-de-dados)
 - [10-observabilidade-finops](../10-observabilidade-finops)
