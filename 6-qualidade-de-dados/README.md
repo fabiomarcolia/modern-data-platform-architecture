@@ -29,4 +29,4 @@ Este capítulo aborda:
 
 ## 🔜 Próximo Capítulo
 
-- [Governança e Segurança](../7-governanca-e-seguranca)
+- [7-Governança e Segurança](../7-governanca-e-seguranca)
