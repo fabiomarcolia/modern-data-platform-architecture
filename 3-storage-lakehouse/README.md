@@ -21,7 +21,8 @@ Principais ferramentas e recursos
 1. [Conceitos de Lakehouse](1-lakehouse-conceitos.md)  
 2. [Iceberg em Profundidade](2-iceberg-deep-dive.md)  
 3. [Design de Tabelas e Particionamento](3-design-tabelas-particionamento.md)  
-4. [Layout de Arquivos e Compactação](4-layout-arquivos-compactacao.md)
+4. [Evolução de Schema](4-evolução-de-schema)
+5. [Layout de Arquivos e Compactação](4-layout-arquivos-compactacao.md)
 
 ---
 
