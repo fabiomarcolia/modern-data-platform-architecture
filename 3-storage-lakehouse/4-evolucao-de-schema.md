@@ -15,7 +15,7 @@ As ferramentas modernas de Lakehouse, como o Databricks Lakehouse ou o [Microsof
 
 * Adição de novas colunas: O tipo mais comum e seguro de evolução.
 * Mudança de tipos de dados: Frequentemente restrito a mudanças compatíveis (ex: de Integer para Long).
-* Renomeação e Exclusão: Suportadas por alguns formatos (como Iceberg), mas podem exigir cautela para não quebrar consultas existentes. [2, 5, 7, 10] 
+* Renomeação e Exclusão: Suportadas por alguns formatos (como Iceberg), mas podem exigir cautela para não quebrar consultas existentes. 
 
 ## Benefícios no Ciclo de Vida de Dados
 
@@ -25,5 +25,5 @@ As ferramentas modernas de Lakehouse, como o Databricks Lakehouse ou o [Microsof
 
 ## 🔜 Próximo
 
-- [Evolução de Schema](4-evolução-de-schema)
+- [Layout e Compactação](5-layout-arquivos-compactacao.md)
 
