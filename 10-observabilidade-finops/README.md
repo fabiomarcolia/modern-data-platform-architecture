@@ -17,13 +17,13 @@ Este capítulo conecta:
 ## 📐 Diagramas deste capítulo
 
 1. **Camadas de Observabilidade**  
-   ![Observabilidade](../diagrams/assets/data-observability-camadas.png)
+   ![Observabilidade](../assets/diagramas/data-observability-camadas.png)
 
 2. **Ciclo de Incidente de Dados**  
-   ![Incidente](../diagrams/assets/ciclo-incidente-dados.png)
+   ![Incidente](../assets/diagramas/ciclo-incidente-dados.png)
 
 3. **FinOps: Alavancas em Dados**  
-   ![FinOps](../diagrams/assets/finops-dados-alavancas.png)
+   ![FinOps](../assets/diagramas/finops-dados-alavancas.png)
 
 ---
 
@@ -43,4 +43,4 @@ Este capítulo conecta:
 
 ## 🔜 Próximo
 
-- [CI/CD](../11-ci-cd-dataops)
+- [11-CI/CD](../11-ci-cd-dataops)
