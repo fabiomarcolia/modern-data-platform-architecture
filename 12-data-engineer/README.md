@@ -83,7 +83,7 @@ integrando:
 
 Este capítulo conecta diretamente com:
 
-03-storage-lakehouse  
-05-orquestracao  
-06-qualidade-de-dados  
-10-observabilidade-finops  
+- [03-storage-lakehouse](../3-storage-lakehouse)
+- [-05-orquestração](../5-orquestracao)  
+- [06-qualidade-de-dados](../6-qualidade-de-dados)
+- [10-observabilidade-finops](../10-observabilidade-finops)
