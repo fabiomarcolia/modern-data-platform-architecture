@@ -76,4 +76,4 @@ Nestes casos, é preciso:
 
 ## 🔜 Próximo
 
-➡️ [Princípios de Design de DAG](./principios-design-dag.md)
+- [Princípios de Design de DAG](2-principios-design-dag.md)

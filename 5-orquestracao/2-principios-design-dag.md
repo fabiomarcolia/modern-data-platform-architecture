@@ -65,4 +65,4 @@ Complica exponencialmente no médio.
 
 ## 🔜 Próximo
 
-➡️ [Orquestração Orientada a Eventos](./orquestracao-eventos.md)
+➡️ [Orquestração Orientada a Eventos](3-orquestracao-eventos.md)
