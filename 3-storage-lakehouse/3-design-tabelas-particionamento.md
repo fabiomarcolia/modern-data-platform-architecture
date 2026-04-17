@@ -40,4 +40,4 @@ Seu particionamento foi desenhado para leitura ou para ingestão?
 
 ## 🔜 Próximo
 
-➡️ [Evolução de Schema](./evolucao-de-schema.md)
+➡️ [Evolução de Schema](4-evolucao-de-schema.md)
