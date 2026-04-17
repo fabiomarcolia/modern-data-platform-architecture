@@ -72,4 +72,4 @@ Implemente quando:
 
 ## 🔜 Próximo
 
-➡️ [BI em Escala](./03-bi-em-escala.md)
+➡️ [BI em Escala](3-bi-em-escala.md)

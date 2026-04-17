@@ -81,4 +81,4 @@ Serving é BI + engine + semântica + governança + custo.
 
 ## 🔜 Próximo
 
-➡️ [Matriz Comparativa (inclui Power BI)](./05-matriz-engines-powerbi.md)
+➡️ [Matriz Comparativa (inclui Power BI)](5-matriz-engines-powerbi.md)

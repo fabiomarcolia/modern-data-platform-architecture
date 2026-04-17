@@ -51,4 +51,4 @@ Este framework serve para diagnóstico e roadmap.
 
 ## 🔜 Próximo
 
-➡️ [FinOps aplicado a Serving](./07-finops-serving.md)
+➡️ [FinOps aplicado a Serving](7-finops-serving.md)

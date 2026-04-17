@@ -88,4 +88,4 @@ Política de Acesso (Governança)
 
 ## 🔜 Próximo
 
-➡️ [Estudo de caso — Varejo](./09-caso-varejo.md)
+➡️ [Estudo de caso — Varejo](9-caso-varejo.md)

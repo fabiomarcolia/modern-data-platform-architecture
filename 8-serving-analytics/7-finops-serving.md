@@ -65,4 +65,4 @@ Serving sem accountability vira centro de custo invisível.
 
 ## 🔜 Próximo
 
-➡️ [FinOps + Governança](./08-finops-governanca.md)
+➡️ [FinOps + Governança](8-finops-governanca.md)

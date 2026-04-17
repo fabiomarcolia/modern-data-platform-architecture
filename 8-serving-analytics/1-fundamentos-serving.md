@@ -76,4 +76,4 @@ Nível 5 — Serving como produto (Data as a Product + ROI)
 
 ## 🔜 Próximo
 
-➡️ [Camada Semântica](./02-camada-semantica.md)
+➡️ [Camada Semântica](2-camada-semantica.md)

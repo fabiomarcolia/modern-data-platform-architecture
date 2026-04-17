@@ -38,4 +38,4 @@ Este capítulo integra:
 
 ## 🔜 Próximo Capítulo
 
-- [ML e IA](../9-ml-e-ia-integracao)
+- [9-ML e IA](../9-ml-e-ia-integracao)
