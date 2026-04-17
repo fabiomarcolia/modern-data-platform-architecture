@@ -94,4 +94,4 @@ Treino → Validação → Deploy → Monitoramento → Feedback → Re-treino
 
 ## 🔜 Próximo
 
-➡️ [FinOps para ML & IA](./07-finops-ml-ia.md)
+➡️ [FinOps para ML & IA](7-finops-ml-ia.md)

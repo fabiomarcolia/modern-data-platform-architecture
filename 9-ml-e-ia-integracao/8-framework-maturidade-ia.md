@@ -52,4 +52,4 @@ Um framework de maturidade de IA em uma Modern Data Platform (MDP) serve como um
 
 ## 🔜 Próximo
 
-➡️ [Caso Varejo](./09-caso-varejo-ia.md)
+➡️ [Caso Varejo](9-caso-varejo-ia.md)

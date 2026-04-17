@@ -69,4 +69,4 @@ O fluxo típico segue a arquitetura de medalhão:
 
 ## 🔜 Próximo
 
-➡️ [LLMs & RAG Corporativo](./04-llm-e-rag-corporativo.md)
+➡️ [LLMs & RAG Corporativo](4-llm-e-rag-corporativo.md)

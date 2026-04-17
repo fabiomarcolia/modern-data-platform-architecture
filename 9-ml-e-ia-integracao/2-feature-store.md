@@ -86,4 +86,4 @@ Resultado:
 
 ## 🔜 Próximo
 
-➡️ [ML no Lakehouse](./03-ml-no-lakehouse.md)
+➡️ [ML no Lakehouse](3-ml-no-lakehouse.md)

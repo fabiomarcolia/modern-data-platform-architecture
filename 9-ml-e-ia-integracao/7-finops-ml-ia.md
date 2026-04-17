@@ -100,4 +100,4 @@ Para IA Generativa, o custo é baseado no consumo de tokens, onde as entradas (p
 
 ## 🔜 Próximo
 
-➡️ [Framework de Maturidade de IA](./08-framework-maturidade-ia.md)
+➡️ [Framework de Maturidade de IA](8-framework-maturidade-ia.md)

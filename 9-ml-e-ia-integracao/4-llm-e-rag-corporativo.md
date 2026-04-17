@@ -85,4 +85,4 @@ Uma arquitetura madura responde 3 perguntas:
 
 ## 🔜 Próximo
 
-➡️ [Governança em IA](./05-governanca-em-ia.md)
+➡️ [Governança em IA](5-governanca-em-ia.md)

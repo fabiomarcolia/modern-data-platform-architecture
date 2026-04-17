@@ -96,4 +96,4 @@ Sem governança:
 
 ## 🔜 Próximo
 
-➡️ [MLOps + Observabilidade](./06-mlops-e-observabilidade.md)
+➡️ [MLOps + Observabilidade](6-mlops-e-observabilidade.md)

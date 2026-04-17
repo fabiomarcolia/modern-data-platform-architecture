@@ -86,4 +86,4 @@ Você precisa conseguir responder:
 
 ## 🔜 Próximo
 
-➡️ [Feature Store](./02-feature-store.md)
+➡️ [Feature Store](2-feature-store.md)
