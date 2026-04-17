@@ -19,7 +19,7 @@ Este capítulo aborda:
 
 1. [Qualidade não é apenas teste](1-qualidade-nao-e-apenas-teste.md)  
 2. [Contratos de Dados](2-contratos-de-dados.md)  
-3. [Expectations e Monitoramento](3-expectativas-e-monitoramento.md)
+3. [Expectativas e Monitoramento](3-expectativas-e-monitoramento.md)
 
 ---
 
@@ -29,4 +29,4 @@ Este capítulo aborda:
 
 ## 🔜 Próximo Capítulo
 
-- [7-governanca-e-seguranca](7-governanca-e-seguranca)
+- [Governança e Segurança](../7-governanca-e-seguranca)
