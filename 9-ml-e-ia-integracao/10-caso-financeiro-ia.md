@@ -30,4 +30,4 @@ Em finanças, IA sem governança não é inovação.
 
 ## 🔜 Próximo
 
-➡️ [Observabilidade e Finops](../10-observabilidade-finops)
+- [10-Observabilidade e Finops](../10-observabilidade-finops)

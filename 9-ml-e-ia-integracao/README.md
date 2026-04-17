@@ -72,4 +72,4 @@ Uma plataforma de dados moderna pronta para IA geralmente é composta por camada
 
 ## 🔜 Próximo Capítulo
 
-- [Observabilidade e Finops](../10-observabilidade-finops)
+- [10-Observabilidade e Finops](../10-observabilidade-finops)
