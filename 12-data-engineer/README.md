@@ -77,7 +77,7 @@ integrando:
 - [3-Maturidade de Engenharia de Dados](3-maturidade-engenharia-de-dados.md)
 - [4-Engenheiro, Finops e Observabilidade](4-engenharia-finops-observabilidade.md)
 - [5-Decisões Comparativas | Spark | Flink | SQL Engines](5-decisoes-comparativas-spark-flink-sql-engines.md)
-- [Modelo de Avaliação para Entrevistas](7-modelo-avaliacao-entrevista-staff.md)
+- [6-Modelo de Avaliação para Entrevistas](6-modelo-avaliacao-entrevista-staff.md)
 
 ---
 
