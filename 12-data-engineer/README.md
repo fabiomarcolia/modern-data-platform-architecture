@@ -3,6 +3,14 @@
 
 A Engenharia de Dados ao nível arquitetural concentra-se no design, planejamento e estruturação de sistemas complexos para coletar, armazenar, processar e disponibilizar dados de maneira escalável, confiável e segura. Ao contrário do engenheiro focado no código (pipeline), o arquiteto de dados define como os dados fluem, onde residem e quais tecnologias garantem performance e governança.
 
+### Este capítulo conecta diretamente com:
+
+- [03-storage-lakehouse](../3-storage-lakehouse)
+- [05-orquestração](../5-orquestracao)  
+- [06-qualidade-de-dados](../6-qualidade-de-dados)
+- [10-observabilidade-finops](../10-observabilidade-finops)
+
+
 ---
 ![Data Engineer Moderna]](../assets/diagramas/de-moderna.png)
 
@@ -81,9 +89,77 @@ integrando:
 
 ---
 
-Este capítulo conecta diretamente com:
+## 🎁 Bônus: Repositórios para Inspiração e Aprendizado
 
-- [03-storage-lakehouse](../3-storage-lakehouse)
-- [05-orquestração](../5-orquestracao)  
-- [06-qualidade-de-dados](../6-qualidade-de-dados)
-- [10-observabilidade-finops](../10-observabilidade-finops)
+        Esses projetos oferecem uma variedade de abordagens e tecnologias que são fundamentais para o campo da engenharia de dados. Eles podem servir como referência para quem deseja aprender ou aprimorar suas habilidades práticas na área.
+
+- [1. Udacity Data Engineering Projects](https://github.com/san089/Udacity-Data-Engineering-Projects)
+
+    Descrição: Este repositório contém vários projetos de engenharia de dados, incluindo modelagem de dados, configuração de infraestrutura em nuvem e desenvolvimento de data lakes e data warehouses.
+
+    - Principais Projetos: 
+        - Modelagem de Dados com Postgres: Criação de um pipeline ETL para analisar dados de uma aplicação de streaming musical.
+        - Data Warehouse com AWS: Construção de um data warehouse utilizando Amazon Redshift.
+        - Data Lake com Spark: Implementação de um data lake na AWS usando Spark e EMR..
+
+- [2. Lucjan Jankonopka](https://github.com/lucjankonopka/portfolio)
+
+    Descrição: Um portfólio abrangente que inclui projetos realizados em cursos e exercícios de autoaprendizado em engenharia e análise de dados.
+    
+    - Projetos Destacados:
+        - Apache Beam: Pipeline ETL para analisar dados sobre bicicletas em Londres.
+        - Web Scraping com Beautiful Soup: Extração de dados sobre restaurantes em Berlim e visualização em um mapa interativo.
+
+- [3. YelpoSphere](https://github.com/itsadityagupta/data-engineering-projects)
+
+    Descrição: Um projeto que utiliza um pipeline de dados completo na GCP para analisar tendências na indústria de restaurantes a partir de dados do Yelp.
+
+    - Tecnologias Usadas: GCP, Apache Spark, Airflow, SQL, Python.
+
+- [4. Practical Data Engineering](https://github.com/ssp-data/practical-data-engineering)
+
+    Descrição: Um guia prático que aborda desafios comuns em engenharia de dados, utilizando tecnologias como web scraping, Spark, Delta Lake e visualização com Apache Superset.
+
+    - Tecnologias Usadas: MinIO, Spark, Delta Lake, Jupyter Notebooks, Dagster.
+
+- [5. End-to-End Data Engineering Project](https://github.com/HamzaG737/data-engineering-project)
+
+    Descrição: Este projeto demonstra a criação de um sistema completo de engenharia de dados usando Kafka, Airflow e Spark. Inclui streaming de dados, processamento e armazenamento em PostgreSQL.
+      
+
+---
+
+### Projetos e iniciativas mais relevantes
+
+Os projetos mais populares de Data Engineer no GitHub geralmente se concentram em pipelines end-to-end, ETL/ELT com Airflow e dbt, Spark/Databricks, data lakes/lakehouses e observabilidade de dados. Uma boa referência inicial é a lista “awesome” de engenharia de dados e a página de tópicos do GitHub para esse tema.
+
+
+- [Apache Spark](https://github.com/gunnarmorling/awesome-opensource-data-engineering) — muito usado para processamento distribuído em batch e streaming; aparece como base de muitos projetos de engenharia de dados.
+
+- [Apache Airflow](https://github.com/garage-education/data-engineering-projects) — padrão de fato para orquestração de pipelines, com muitos repositórios de projetos práticos usando DAGs.
+
+- [dbt](https://github.com/garage-education/data-engineering-projects) — popular para transformações SQL em camadas analíticas e projetos ELT modernos.
+
+- [Delta Lake](https://github.com/garage-education/data-engineering-projects) — bastante presente em arquiteturas lakehouse com Spark e Databricks.
+
+#### O que chama a atenção
+
+Os repositórios que mais chamam atenção em Data Engineering costumam ter três características: pipeline completo, documentação clara e stack moderna. Em geral, projetos com Airflow + dbt + Spark + cloud warehouse aparecem muito bem em portfólio porque demonstram orquestração, transformação e escalabilidade.
+
+Sugestão prática: 
+
+- Se você quer montar um GitHub forte para vaga de Data Engineer, eu priorizaria estes 4 tipos de projeto:
+
+
+        -Ingestão de API para banco ou warehouse.
+
+        -Pipeline com Airflow.
+
+        -Transformações com dbt.
+
+        -Projeto com Spark ou Delta Lake em ambiente cloud/local
+
+--- 
+
+
+
