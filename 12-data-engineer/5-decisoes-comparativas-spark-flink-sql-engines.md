@@ -6,7 +6,7 @@ Para escolher a tecnologia ideal de processamento de dados, a decisão geralment
 A escolha do motor define: custo, complexidade operacional, time-to-value e confiabilidade.
 
 ---
-![Spark vs Flink vs SQL Engines](image.png)
+![Spark vs Flink vs SQL](../assets/diagramas/spark-flink-sql-engines.png)
 ---
 
 ### 1) Quando Spark é a melhor escolha
